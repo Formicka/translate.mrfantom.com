@@ -1,0 +1,20 @@
+{
+  "Yes": "Ano",
+  "No": "Nie",
+  "Login to your account": "Prihlásenie zamestnanca",
+  "Employee email": "Email zamestnanca",
+  "Enter email": "Zadajte email adresu",
+  "Password": "Prihlasovacie heslo",
+  "I forgot password": "Zabudol som heslo",
+  "Sign in": "Prihlásenie",
+  "Register new company.": "Registrácia novej spoločnosti.",
+  "'s staff": "zamestnanci",
+  "Add new employee": "Pridať nového zamestnanca",
+  "Toggle Dropdown": "Ponuka",
+  "Import employees": "Import zamestnancov",
+  "Add single employee": "Pridať nového zamestnanca",
+  "Export as csv": "Export vo formáte csv",
+  "Departments": "Zoznam oddelení",
+  "All departments": "Všetky oddelenia\n  ",
+  "Name": "Meno"
+}
