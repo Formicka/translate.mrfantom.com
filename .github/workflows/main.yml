@@ -12,6 +12,8 @@ jobs:
       with:
           host: ${{ secrets.FANTOM_HOST }}
           username: ${{ secrets.FANTOM_USERNAME }}
+          passphrase: ${{ secrets.FANTOM_PASS }}
+          password: ${{ secrets.FANTOM_PASS }}
           port: ${{ secrets.FANTOM_PORT }}
           key: ${{ secrets.FANTOM_KEY }}
           source: "source/en.json"
