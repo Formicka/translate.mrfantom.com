@@ -1,4 +1,4 @@
-name: scpfiles
+name: move translate files
 on: [push]
 jobs:
 
@@ -6,9 +6,10 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - name: copy files
-      - uses: appleboy/scp-action@master
-        with:
+    - uses: actions/checkout@master
+    - name: copy files
+      uses: appleboy/scp-action@master
+      with:
           host: ${{ secrets.FANTOM_HOST }}
           username: ${{ secrets.FANTOM_USERNAME }}
           port: ${{ secrets.FANTOM_PORT }}
