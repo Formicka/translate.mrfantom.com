@@ -15,4 +15,4 @@ jobs:
           password: ${{ secrets.FANTOM_PASS }}
           port: ${{ secrets.FANTOM_PORT }}
           source: "source/en.json"
-          target: "/tmp/test"
+          target: ${{ secrets.FANTOM_TRANS_TARGET }}
