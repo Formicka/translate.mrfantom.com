@@ -1,1 +1,1 @@
-nepritomnost.sk <br>Funkcie <br>Cenník <br>Kontakt <br>Prihlásenie
+MrFantom.com Functions Price list Contact Login
