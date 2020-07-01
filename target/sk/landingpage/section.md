@@ -37,7 +37,12 @@ zadarmo Team Štandard
 45€ / mesačne Team Neobmedzene
 
 ```
-45€ / mesačne Team Neobmedzene
+✓ neobmedzený počet zamestnancov
+✓ neobmedzený počet tímov
+✓ online dostupnosť 24/7
+✓ online podpora
+✓ ľubovolná platforma mobil/tablet/PC
+✓ hromadný import zamestnancov
 ```
 
 105€ / mesačne Responzívny dizajn a jednoduché ovládanie
