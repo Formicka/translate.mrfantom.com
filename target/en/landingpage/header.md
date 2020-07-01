@@ -1,1 +1,21 @@
-firemné neprítomnosti online Jednoduché žiadanky Rýchle schvaĽovanie E-mailové notifikácie Nastavenia neprítomností Nastavenia voľných dní Nastavenia tímov Štatistiky neprítomností Adresár zamestnancov Dostupnosť zamestnanca Vlastné neprítomností vytvor si svoj tím
+Corporate absences online 
+
+Simple requests 
+
+Quick approval 
+
+E-mail notifications 
+
+Absence settings 
+
+Free day settings 
+
+Team settings 
+
+Absence statistics 
+
+Employee directory 
+
+Employee availability 
+
+Create your own absence

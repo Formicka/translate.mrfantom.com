@@ -1,26 +1,27 @@
-Kontaktujte násradi vám zodpovieme všetky otázky
-Váš email
-Vaša správa
-Odoslať správu
-Firemné neprítomnosti online. Získajte rýchly prehľad neprítomností všetkých zamestnancov alebo vybraných tímov. 
-Ďalšie info
-    Všeobecné obchodné podmienky
-    Ochrana osobných údajov
-    GDPR
-    Cookies
-    Changelog ↗
-    Server status ↗
+Contact us and we will answer all your questions Your email Your message Send a message Corporate absences online. Get a quick overview of the absences of all employees or selected teams. 
 
-Aplikácia
-    Prihlásenie ↗
-    Registrácia firmy ↗
-    Zabudnuté heslo ↗
+Further info 
 
-Kontakt
-    info@nepritomnost.sk
-    Žilina, Tulská 3240/33
-    Slovenská republika
-    Pracovné hodiny: 09:00 - 17:00
+General terms and conditions 
 
-Designed and Developed by FORMIČKA
-Našli ste chybu alebo máte otázku?
+Privacy policy 
+
+GDPR 
+
+Cookies 
+
+Changelog ↗ 
+
+Server status ↗
+
+Application 
+
+Login ↗ 
+
+Company Registration ↗ 
+
+Forgotten Password ↗
+
+Contact info@nepritomnost.sk Žilina, Tulská 3240/33 Slovak Republic Working hours: 09:00 - 17:00
+
+Designed and Developed by FORMIČKA Found an error or have a question?

@@ -1,81 +1,54 @@
-Získajte rýchly prehľad neprítomností všetkých zamestnancov alebo vybraných tímov
-shape shape
-Zadávanie a schvaľovanie žiadaniek
+Get a quick overview of the absence of all employees or selected teams Entering and approving request
 
-Naša responzívna web aplikácia umožňuje rýchle online (ne)schvaľovanie a žiadanie neprítomností. Kedykoľvek a kdekoľvek.
-shape shape
-Definovanie vlastných neprítomností
+Our responsive web application enables fast online approval and entering requests of the absences. Anytime, anywhere. shape shape Defining your own absences
 
-Registráciou získate možnosť nastavenia a správy vami definovaných neprítomností, tímov a jednotlivých zamestnancov.
-shape shape
-Onclick prehľady a jednoduchá dochádzka
+With our app you can set up and manage the absences you have defined, teams and individual employees. shape shape Onclick reports and easy attendance
 
-Vy aj vaši zamestnanci získavate rýchly prehľad o aktuálnej aj plánovanej neprítomnosti kolegov a tlačové výstupy vo formáte CSV.
-shape
-Ideálny pre start-upy, malé
-a stredné podnikanie
+You and your employees get a quick overview of the current and planned absences of colleagues and printouts in CSV format. shape Ideal for start-ups, small and medium businesses
 
-Rozrastáte sa a cítite potrebu utriasť firemné procesy? Neviažte sa zbytočne komplexnému informačnému systému. S našou aplikáciou získate nielen agendu firemných neprítomností, ale aj jednoduchý výkaz firemnej dochádzky po dňoch či adresár zamestnancov a telefónny zoznam.
-about
-shape
-E-mailové notifikácie
+Don't be tied to an unnecessarily complex information system. With our application, you will get not only an agenda of company absences but also a printout of company attendance by days, employee address book and telephone address book. about shape Email notifications
 
-O priebehu histórie a stavu každej žiadanky zamestnancov a schvaľovateľov informujú automatické e-mailové notifikácie.
-about
-about
-Adresár zamestnancov
+Automatic e-mail notifications will inform you about the approval progress and status of each request from employees and approvers. about about Employee address book
 
-Sprístupnite vašim zamestnancom vždy aktuálny zoznam kontaktov na svojich kolegov, čím zabezpečíte rýchlu a efektívnu komunikáciu pri riešení zadaných úloh a rozvoj tímovej spolupráce.
-shape
-Integrácia do externých kalendárov
+You and your employees will always have an up-to-date list of contacts ensuring fast and efficient communication when solving assigned tasks and developing teamwork. shape Integration into external calendars
 
-Zdieľajte svoje údaje s externými poskytovateľmi kalendárov, ako napríklad Microsoft Outlook, Apple Calendar (iCal) alebo Google Calendar.
-about
-Aktuálny cenník
-Team
-Startup
+You can share your information with external calendar providers such as Microsoft Outlook, Apple Calendar (iCal) or Google Calendar. about Current price list Team Startup
 
-    ✓ maximálne 5 zamestnancov
-    ✓ neobmedzený počet tímov
-    ✓ online dostupnosť 24/7
-    ✓ online podpora
-    ✓ ľubovolná platforma mobil/tablet/PC
-    ✗ hromadný import zamestnancov
+```
+✓ max. 5 employees
+✓ unlimited number of teams
+✓ online availability 24/7
+✓ online support
+✓ any platform: mobile/tablet/PC
+✗ mass import of employees
+```
 
-zadarmo
-Team
-Štandard
+free Team Standard
 
-    ✓ maximálne 30 zamestnancov
-    ✓ neobmedzený počet tímov
-    ✓ online dostupnosť 24/7
-    ✓ online podpora
-    ✓ ľubovolná platforma mobil/tablet/PC
-    ✗ hromadný import zamestnancov
+```
+✓ max. 30 employees
+✓ unlimited number of teams
+✓ online availability 24/7
+✓ online support
+✓ any platform: mobile/tablet/PC
+✗ mass import of employees
+```
 
-45€ / mesačne
-Team
-Neobmedzene
+45€ / monthly Team Without limit
 
-    ✓ neobmedzený počet zamestnancov
-    ✓ neobmedzený počet tímov
-    ✓ online dostupnosť 24/7
-    ✓ online podpora
-    ✓ ľubovolná platforma mobil/tablet/PC
-    ✓ neobmedzené funkcie
+```
+✓ unlimited number of emplyees
+✓ unlimited number of teams
+✓ online availability 24/7
+✓ online support
+✓ any platform: mobile/tablet/PC
+✓ mass import of employees
+```
 
-105€ / mesačne
-Responzívny dizajn
-a jednoduché ovládanie
+105€ / monthly Responsive design and easy operation
 
-Aplikáciu nepritomnost.sk neustále rozvíjame tak, aby bola čo najviac user-friendly pri používaní na každom zariadení. Spokojnosť naších užívateľov je pre nás dôležitá. Radi uvítame vaše podnety na zlepšenie na info@nepritomnost.sk.
-dots
-video
-Čas sú peniaze. Ušetrite si ho
+Satisfaction of our users is important to us. We would like to welcome your suggestions for improvement at info@nepritomnost.sk. dots video Time is money. Save it
 
-Vďaka online agende vašich firemných neprítomností ušetríte čas sebe aj vašim zamestnancom. Už nebudete musieť vypisovať žiadne papierové žiadosti, dohadovať sa v emailoch alebo ústne.
-about
-shape
-Appka pre firemnú pohodu
+Thanks to the online agenda of your company absences, you will save time for yourself and your employees. You will no longer have to list paper applications or argue in emails. about shape App, that helps your buisiness
 
-Cieľom našej aplikácie je umožniť začínajúcim, menším a stredným podnikateľom nastaviť poriadok a prehľad vo firemnom dianí. Za rozumnú cenu a výhodný rozsah. 
+The goal of our application is to enable small and medium-sized businesses to set up system and overview in company events. Reasonable price for reasonable results

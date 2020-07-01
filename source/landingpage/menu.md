@@ -1,5 +1,9 @@
-nepritomnost.sk
-Funkcie
-Cenník
-Kontakt
-Prihlásenie
+MrFantom.com 
+
+Functions 
+
+Price list 
+
+Contact 
+
+Login
