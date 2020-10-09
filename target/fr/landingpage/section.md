@@ -15,34 +15,34 @@ Vous et vos employés aurez toujours une liste à jour de contacts assurant une 
 Vous pouvez partager vos informations avec des fournisseurs de calendrier externes tels que Microsoft Outlook, Apple Calendar (iCal) ou Google Calendar. à propos de la liste de prix actuelle Team Startup
 
 ```
-✓ max. 5 employees
-✓ unlimited number of teams
-✓ online availability 24/7
-✓ online support
-✓ any platform: mobile/tablet/PC
-✗ mass import of employees
+✓ max. 5 employés
+✓ nombre illimité d'équipes
+✓ disponibilité en ligne 24/7
+✓ support en ligne
+✓ toute plateforme: mobile / tablette / PC
+✗ importation massive d'employés
 ```
 
 Standard d'équipe gratuit
 
 ```
-✓ max. 30 employees
-✓ unlimited number of teams
-✓ online availability 24/7
-✓ online support
-✓ any platform: mobile/tablet/PC
-✗ mass import of employees
+✓ max. 30 collaborateurs
+✓ nombre illimité d'équipes
+✓ disponibilité en ligne 24/7
+✓ support en ligne
+✓ toute plateforme: mobile / tablette / PC
+✗ importation massive d'employés
 ```
 
 45 € / mois Equipe Sans limite
 
 ```
-✓ unlimited number of emplyees
-✓ unlimited number of teams
-✓ online availability 24/7
-✓ online support
-✓ any platform: mobile/tablet/PC
-✓ mass import of employees
+✓ nombre illimité d'employés
+✓ nombre illimité d'équipes
+✓ disponibilité en ligne 24/7
+✓ support en ligne
+✓ toute plateforme: mobile / tablette / PC
+✓ importation massive d'employés
 ```
 
 105 € / mois Conception réactive et utilisation simple
