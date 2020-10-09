@@ -1,9 +1,9 @@
 mrfantom.fr
 
-Functions
+Les fonctions
 
-Price list
+Liste de prix
 
 Contact
 
-Login
+S'identifier
